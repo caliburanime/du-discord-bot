@@ -1,0 +1,20 @@
+{
+  "name": "dudc-bot",
+  "version": "1.0.0",
+  "description": "A open source discord bot DU discord server.",
+  "homepage": "https://github.com/caliburanime/du-discord-bot#readme",
+  "bugs": {
+    "url": "https://github.com/caliburanime/du-discord-bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caliburanime/du-discord-bot.git"
+  },
+  "license": "MIT",
+  "author": "calibur",
+  "type": "commonjs",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
