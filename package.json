@@ -12,9 +12,16 @@
   },
   "license": "MIT",
   "author": "calibur",
-  "type": "commonjs",
+  "type": "module",
   "main": "none",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2"
   }
 }
